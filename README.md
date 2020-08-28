@@ -14,7 +14,7 @@ We do not design it to harm, it is only a test that helps us to know the methods
 
 EquisdeVRS was programmed in Visual Studio 2017 with the WinForms or VB.NET language.
 
-It is currently being developed without the help of [Worcome Studios(http://worcomestudios.comule.com/).
+It is currently being developed without the help of [Worcome Studios](http://worcomestudios.comule.com/).
 
 Currently you can help us with some little things that we still can't add, it would be great.
 
