@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="CryptographyKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ehc125eoXVK9045P39E72y2358U54u68SfKp488cbo92936wJz7N34F0TApjujhvN3209378298KnWS68QUWztKA</Value>
+    </Setting>
+    <Setting Name="Me_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
